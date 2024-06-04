@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "OrbSlam3",
+	"Description": "Unreal Implementation of Orb Slam3 shared object library",
+	"Category": "Other",
+	"CreatedBy": "Timothy Bujnevicie",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "OrbSlam3",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
